@@ -1,5 +1,5 @@
 ## Introduction
-This is a simple word guessing game where players guess the word chosen by guessing a letter each time within a limited guessing rounds.
+This is a simple word guessing game where players guess the word chosen by guessing a letter each time within a limited guessing rounds. This game manipulated the traditional Evil Hangman format by dynamically adjusting the possible word pool based on player guesses. Instead of selecting a fixed word at the start, the game continually alters the word list to maintain unsertainty, making it more challenging for the player. This increases the game difficulty by intentionally avoiding early word confirmation and extending the guessing process.
 
 ## Technology Used
 Language: C++
